@@ -1,7 +1,7 @@
 # HTML-Learn-App
 This is the New application. I have create using react native framework. 
 
-<h1>HTML Learn App</h1>
+<center><h1>HTML Learn App</h1></center>
 	<img src="logo.png" style="height: 300px;width: 300px;">
 	<h2>This App Will Start HTML Basic to Advance level. Please Download and try learn Today.</h2>
 
