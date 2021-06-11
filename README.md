@@ -2,7 +2,7 @@
 This is the New application. I have create using react native framework. 
 
 <center><h1>HTML Learn App</h1></center>
-	<img src="logo.png" style="height: 100px;width: 100px;">
+	<img src="logo.png" width=200px>
 	<h2>This App Will Start HTML Basic to Advance level. Please Download and try learn Today.</h2>
 
 <h3>Description:</h3>
@@ -13,9 +13,7 @@ This Application can be used by anyone want you a student. in This application i
 
 <h3>App ScreenShort::</h3>
 	
-<img src="screen1.jpg" style="height: 300px;width: 150px;">
-<img src="screen2.jpg" style="height: 300px;width: 150px;">
-<img src="screen3.jpg" style="height: 300px;width: 150px;">
+<img src="screen1.jpg" width=200px> <img src="screen2.jpg" width=200px> <img src="screen3.jpg" width=200px>
 
 <h3>Features:</h3>
 <li>Intuitive UI.</li>
