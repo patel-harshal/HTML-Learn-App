@@ -47,5 +47,3 @@ This Application can be used by anyone want you a student. in This application i
 
 <center><h2><a href="https://play.google.com/store/apps/details?id=com.learnhtml5">GET THIS APP</a></h2></center>
 
-<p style="font-size: 20px; color: red">NOTE: This application are available  only Amazon App store.
-	</p>
